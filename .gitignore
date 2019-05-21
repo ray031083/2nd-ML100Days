@@ -8,3 +8,5 @@ homework/.ipynb_checkpoints/Day_003-1_HW-checkpoint.ipynb
 homework/.ipynb_checkpoints/Day_002_HW-checkpoint.ipynb
 data/application_train.csv
 *.csv
+data/house_test.csv.gz
+data/house_train.csv.gz
